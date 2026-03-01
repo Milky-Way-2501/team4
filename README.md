@@ -29,6 +29,7 @@
     </style>
 </head>
 <body>
+    <iframe width="560" height="315" ;align-items: center; src="https://www.youtube.com/embed/CtRsuSt9sys?si=PESv0LEd2ZO5vBqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <header>
         <nav>
             <div class="logo"><h2>NHÓM 4</h2></div>
