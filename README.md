@@ -48,7 +48,7 @@
         <h2 class="section-title">Thành viên</h2>
         <div class="destinations">
             <div class="card">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3D1AMs4u9Cx4xxP18LqASODyP1tjH9INl58Q_NO_ICpKPQC72621IYswC245E-0Mv1Ax7em1ncYvUPAA_9eIhUBpGRk8dqBwdOmzLIdU&s=10" alt="Trần Phạm Ngân Hà">
+                <img src="https://i.pinimg.com/736x/5b/09/e1/5b09e190bbacbc0c409a7c5f14aad282.jpg" alt="Trần Phạm Ngân Hà">
                 <div class="card-content">
                     <h3>Trần Phạm Ngân Hà</h3>
                     <p>Tui tự xưng là nữ vương của vùng đất mộng mơ nha (vì tui là người tạo web á)</p>
@@ -72,10 +72,10 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.unsplash.com" alt="Hội An">
+                <img src="https://i.pinimg.com/736x/c2/98/f3/c298f31a05efbb2a6144b87a4241a357.jpg" alt="Hội An">
                 <div class="card-content">
                     <h3>Trần Thị Thanh Hồng</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Bình yên là đủ, đủ tiền để xài!.</p>
                     <a href="https://milky-way-2501.github.io/tin/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://i.pinimg.com/736x/98/f8/55/98f85562eb9a6238292187f7a2139db0.jpg" alt="Hội An">
+                <img src="https://dimensions.edu.vn/public/upload/2025/01/avatar-meo-vo-tri-10.webp" alt="Hội An">
                 <div class="card-content">
                     <h3>Lê Thanh Tín</h3>
                     <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
@@ -128,7 +128,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.mykingdom.com.vn/cdn/shop/articles/anya-forger_520x500_520x500_520x500_47fae142-25dc-419c-ab18-05e03b827c08.jpg?v=1754279246" alt="Hội An">
+                <img src="https://i.pinimg.com/736x/57/94/04/579404196a9759a80c8d7a4fb7860410.jpg " alt="Hội An">
                 <div class="card-content">
                     <h3>Nguyễn Vũ Yến Nhi</h3>
                     <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
