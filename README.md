@@ -5,26 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NHÓM 4. Vùng đất mộng mơ</title>
     <style>
-        .container {max-width: 1100 px;margin: 50 px auto;padding: 0 20 px;}
-        .section-title {text-align: center;margin-bottom: 40 px;}
-        .destinations {display: grid; grid-template-columns: repeat (auto-fit, minmax (300 px, 1 fr)); gap: 20 px; }
-        .card {border: 1 px solid #ddd;border-radius: 8 px; overflow: hidden;transition: transform 0.3s;}
-        .card:hover {transform: translateY (-10 px);box-shadow: 0 5 px 15 px rgba (0,0,0,0.1);}
-        .card img {width: 100 %; height: 200 px;object-fit: cover; }
-        .card-content {padding: 15 px; }
+        .container {max-width: 1100px;margin: 50px auto;padding: 0 20px;}
+        .section-title {text-align: center;margin-bottom: 40px;}
+        .destinations {display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1 fr)); gap: 20px; }
+        .card {border: 1px solid #ddd;border-radius: 8px; overflow: hidden;transition: transform 0.3s;}
+        .card:hover {transform: translateY (-10px);box-shadow: 0 5px 15px rgba(0,0,0,0.1);}
+        .card img {width: 100%; height: 200px;object-fit: cover; }
+        .card-content {padding: 15px; }
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin: 0;line-height: 1.6;color: #213A58;}
-        header {background: #213A58; color: white; padding: 1 rem 0; position: fixed; width: 100 %; top: 0; z-index: 1000;}
+        header {background: #213A58; color: white; padding: 1rem 0; position: fixed; width: 100vw; top: 0; z-index: 1000;}
         nav {display: flex;justify-content: space-around;align-items: center;}
         nav ul {list-style: none;display: flex;}
-        nav ul li {margin: 0 15 px;}
+        nav ul li {margin: 0 15px;}
         nav ul li a {color: white;text-decoration: none;font-weight: bold;}
-        /* Phần Banner chính */
-        .hero {background: #15919b;background-size: cover; background-position: center; height: 80 vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; padding-top: 60 px;}
-        .hero h1 { font-size: 3.5 rem; margin-bottom: 10 px; }
-        .hero p { font-size: 1.2 rem; }
-        /* Footer */
+        .hero {background: #15919b;background-size: cover; background-position: center; height: 80vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; padding-top: 60px;}
+        .hero h1 { font-size: 3.5rem; margin-bottom: 10px; }
+        .hero p { font-size: 1.2rem; }
         footer {background: #213a58;color: white;text-align: center;padding: 20px 0;margin-top: 50px;}
-        /* Nút bấm */
         .btn {display: inline-block;background: #09d1c7;color: white;padding: 10px 20px;text-decoration: none;border-radius: 5px;margin-top: 10px;}
     </style>
 </head>
