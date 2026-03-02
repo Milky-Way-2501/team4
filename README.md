@@ -10,7 +10,7 @@
         .destinations {display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1 fr)); gap: 20px; }
         .card {border: 1px solid #ddd;border-radius: 8px; overflow: hidden;transition: transform 0.3s;}
         .card:hover {transform: translateY (-10px);box-shadow: 0 5px 15px rgba(0,0,0,0.1);}
-        .card img {width: 100%; height: 200px;object-fit: cover; }
+        .card img {width: 100%; height: 100px;object-fit: cover; }
         .card-content {padding: 15px; }
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin: 0;line-height: 1.6;color: #213A58;}
         header {background: #213A58; color: white; padding: 1rem 0; position: fixed; width: 100%; top: 0; z-index: 1000;}
