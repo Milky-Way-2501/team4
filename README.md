@@ -60,7 +60,10 @@
                 <img src="https://i.pinimg.com/736x/79/78/85/7978853fdad66b93002f46b123f9323e.jpg" alt="Hiền">
                 <div class="card-content">
                     <h3>Nguyễn Ngọc Diệu Hiền</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Không câu từ hoa mỹ</p>
+                    <p>Không văn vở gì nhiều</p>
+                    <p>Chỉ mong em nhớ kĩ</p>
+                    <p>Em là người tôi yêu.</p>
                     <a href="https://milky-way-2501.github.io/hien/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
@@ -100,12 +103,13 @@
                 <img src="https://images.unsplash.com" alt="Hội An">
                 <div class="card-content">
                     <h3>Võ Tuấn Kiệt</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Chưa biết về tôi xin đừng đánh giá</p>
+                    <p>Nếu biết tôi rồi,xin đừng đánh tôi.</p>
                     <a href="https://tuanciet.github.io/kiet-portfolio2/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.unsplash.com" alt="Hội An">
+                <img src="https://fpt.vn/storage/upload/images/articles/duong/yu3.jpeg" alt="Hội An">
                 <div class="card-content">
                     <h3>Nguyễn Ngọc Ánh</h3>
                     <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
@@ -113,7 +117,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.unsplash.com" alt="Hội An">
+                <img src="https://i.pinimg.com/736x/f3/d3/74/f3d374d9e988a32a2e7f8c8ce84a4c20.jpg" alt="Hội An">
                 <div class="card-content">
                     <h3>Bạch Thị Tuyết Loan</h3>
                     <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
@@ -121,10 +125,10 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.unsplash.com" alt="Hội An">
+                <img src="https://www.pinterest.com/pin/1146869861378053966/" alt="Hội An">
                 <div class="card-content">
                     <h3>Nguyễn Minh Thư</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Ít nói ,Nhiều làm.</p>
                     <a href="https://milky-way-2501.github.io/thu/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
@@ -132,7 +136,8 @@
                 <img src="https://i.pinimg.com/736x/57/94/04/579404196a9759a80c8d7a4fb7860410.jpg " alt="Hội An">
                 <div class="card-content">
                     <h3>Nguyễn Vũ Yến Nhi</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Ai cũng xứng đáng có một tình yêu đẹp, trừ mình.</p>
+                    <p>Mình xứng đáng có tiền và mình chỉ mong tiền không bao giờ rời xa mình.</p>
                     <a href="https://milky-way-2501.github.io/ynhi/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
