@@ -95,7 +95,7 @@
                 <img src="https://dimensions.edu.vn/public/upload/2025/01/avatar-meo-vo-tri-10.webp" alt="Hội An">
                 <div class="card-content">
                     <h3>Lê Thanh Tín</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Cuộc đời đầy bất công, giàu thì bị ghét bỏ, nghèo thì bị coi thường mà thông minh thì bị loại bỏ.</p>
                     <a href="https://milky-way-2501.github.io/mil/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
