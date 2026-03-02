@@ -130,7 +130,7 @@
                     <h3>Nguyễn Vũ Yến Nhi</h3>
                     <p>Ai cũng xứng đáng có một tình yêu đẹp, trừ mình.</p>
                     <p>Mình xứng đáng có tiền và mình chỉ mong tiền không bao giờ rời xa mình.</p>
-                    <a href="https://milky-way-2501.github.io/ynhi/" class="btn">Xem chi tiết</a>
+                    <a href="https://tuanciet.github.io/ynhi/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
         </div>
