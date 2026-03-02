@@ -1,4 +1,4 @@
-<title>NHÓM 4. Vùng đất mộng mơ</title>
+<head>
     <style>
         .container {max-width: 1100px;margin: 50px auto;padding: 0 20px;}
         .section-title {text-align: center;margin-bottom: 40px;}
@@ -19,6 +19,7 @@
         footer {background: #213a58;color: white;text-align: center;padding: 20px 0;margin-top: 50px;}
         .btn {display: inline-block;background: #09d1c7;color: white;padding: 10px 20px;text-decoration: none;border-radius: 5px;margin-top: 10px;}
     </style>
+</head>
 <body>
     <header>
         <nav>
