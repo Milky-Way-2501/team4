@@ -125,7 +125,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.pinterest.com/pin/1146869861378053966/" alt="Hội An">
+                <img src="https://i.pinimg.com/736x/39/23/38/3923388041598ee152f7bafa54a1040c.jpg" alt="Hội An">
                 <div class="card-content">
                     <h3>Nguyễn Minh Thư</h3>
                     <p>Ít nói ,Nhiều làm.</p>
