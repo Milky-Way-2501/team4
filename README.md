@@ -36,7 +36,7 @@
         <p>WELCOME TO WONDERLAND</p>
         <a href="#destinations" class="btn">Bắt đầu ngay</a>
     </section>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ECxVfrwwTp0?si=8dHxh428Hv4oOeD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube.com/embed/ECxVfrwwTp0?si=8dHxh428Hv4oOeD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <div class="container" id="destinations">
         <h2 class="section-title">Thành viên</h2>
         <div class="destinations">
