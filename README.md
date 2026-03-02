@@ -88,7 +88,7 @@
                 <div class="card-content">
                     <h3>Lê Thanh Tín</h3>
                     <p>Cuộc đời đầy bất công, giàu thì bị ghét bỏ, nghèo thì bị coi thường mà thông minh thì bị loại bỏ.</p>
-                    <a href="https://tuanciet.github.io/tin/" class="btn">Xem chi tiết</a>
+                    <a href="https://milky-way-2501.github.io/tin/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
             <div class="card">
