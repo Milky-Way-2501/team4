@@ -9,7 +9,7 @@
         .card-content {padding: 15px; }
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin: 0;line-height: 1.6;color: #213A58;}
         header {background: #213A58; color: white; padding: 1rem 0; position: fixed; width: 100%; top: 0; z-index: 1000;}
-        nav {display: flex;justify-content: space-around;align-items: fixed;padding: 1rem 0; width: 100%; top: 0;}
+        nav {display: flex;justify-content: space-around;align-items: centre;padding: 1rem 0; width: 100%;}
         nav ul {list-style: none;display: flex;}
         nav ul li {margin: 0 15px;}
         nav ul li a {color: white;text-decoration: none;font-weight: bold;}
