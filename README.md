@@ -120,7 +120,7 @@
                 <img src="https://i.pinimg.com/736x/f3/d3/74/f3d374d9e988a32a2e7f8c8ce84a4c20.jpg" alt="Hội An">
                 <div class="card-content">
                     <h3>Bạch Thị Tuyết Loan</h3>
-                    <p>Vẻ đẹp hoài cổ với những ánh đèn lồng rực rỡ sắc màu về đêm.</p>
+                    <p>Học ngu nhưng gu học bá.</p>
                     <a href="https://tuanciet.github.io/loan-portfolio/" class="btn">Xem chi tiết</a>
                 </div>
             </div>
