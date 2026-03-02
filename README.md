@@ -1,7 +1,7 @@
 <head>
     <style>
         .container {max-width: 1100px;margin: 50px auto;padding: 0 20px;}
-        .section-title {text-align: center;margin-bottom: 40px;}
+        .section-title {text-align: center;margin-bottom: 100px;}
         .destinations {display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
         .card {border: 1px solid #ddd;border-radius: 8px; overflow: hidden;transition: transform 0.3s;}
         .card:hover {transform: translateY (-10px);box-shadow: 0 5px 15px rgba(0,0,0,0.1);}
